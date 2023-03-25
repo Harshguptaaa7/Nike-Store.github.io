@@ -5,7 +5,7 @@ const products = [
   {
     id: 1,
     title: "Air Force",
-    price: 119,
+    price: 11900,
     colors: [
       {
         code: "black",
@@ -21,7 +21,7 @@ const products = [
   {
     id: 2,
     title: "Air Jordan",
-    price: 149,
+    price: 14500,
     colors: [
       {
         code: "lightgray",
@@ -36,7 +36,7 @@ const products = [
   {
     id: 3,
     title: "Blazer",
-    price: 109,
+    price: 10900,
     colors: [
       {
         code: "lightgray",
@@ -51,7 +51,7 @@ const products = [
   {
     id: 4,
     title: "Crater",
-    price: 129,
+    price: 12900,
     colors: [
       {
         code: "black",
@@ -66,7 +66,7 @@ const products = [
   {
     id: 5,
     title: "Hippie",
-    price: 99,
+    price: 9000,
     colors: [
       {
         code: "gray",
