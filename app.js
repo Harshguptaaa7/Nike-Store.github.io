@@ -101,7 +101,7 @@ menuItems.forEach((item, index) => {
     currentProductPrice.textContent = "Rs" + choosenProduct.price;
     currentProductImg.src = choosenProduct.colors[0].img;
 
-    //assing new colors
+    //assing new colors 
     currentProductColors.forEach((color, index) => {
       color.style.backgroundColor = choosenProduct.colors[index].code;
     });
